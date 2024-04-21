@@ -1,0 +1,23 @@
+{
+  "name": "aizon-test-msalvadores",
+  "version": "1.0.0",
+  "description": "Aizon technical task",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:tests": "cypress run"
+  },
+  "keywords": [
+    "Cypress",
+    "Cucumber"
+  ],
+  "author": "Manuel Salvadores",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.8.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}
