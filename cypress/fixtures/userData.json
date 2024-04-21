@@ -1,0 +1,10 @@
+{
+  "defaultUser": {
+    "userName": "Manuel",
+    "country": "Spain",
+    "city": "Madrid",
+    "creditCardNumber": 4000000000001000,
+    "month": "April",
+    "year": 2030
+  }
+}
