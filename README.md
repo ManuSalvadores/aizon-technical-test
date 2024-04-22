@@ -31,7 +31,13 @@ On the other hand, if you are looking forward to execute them in headless mode, 
 ```bash
 npm run cy:tests
 ```
+## On demand workflow
 
+You can visit the following link and manually trigger the test suite from github workflow aswell
+
+```bash
+https://github.com/ManuSalvadores/aizon-technical-test/actions
+```
 
 ## Test Framework
 
